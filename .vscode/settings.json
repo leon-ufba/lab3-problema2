@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "math.h": "c",
+    "stdint.h": "c",
+    "array": "c",
+    "chrono": "c",
+    "functional": "c",
+    "istream": "c",
+    "ostream": "c",
+    "ratio": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c",
+    "cmath": "c",
+    "complex": "c",
+    "random": "c"
+  }
+}
