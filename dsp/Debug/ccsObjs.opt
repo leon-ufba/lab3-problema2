@@ -1,0 +1,5 @@
+"./cordic.obj"
+"./cordic_fun.obj"
+"./main.obj"
+"../lnkx.cmd"
+-llibc.a
